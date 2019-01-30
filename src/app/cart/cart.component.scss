@@ -1,0 +1,44 @@
+.panel-default {
+    border-color: #ddd;
+}
+
+.panel {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+
+.panel-body {
+    padding: 15px;
+}
+
+.cart ul {
+    margin-bottom: .7em;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.cart__total {
+    font-weight: bold;
+    font-size: 1.5em;
+    line-height: 1.1em;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.cart-item__name {
+    font-size: 20px;
+    margin: 2px;
+}
+
+.cart-item__price {
+    margin: 2px;
+    font-weight: bold;
+}

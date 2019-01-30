@@ -1,0 +1,75 @@
+{
+    "data": [
+    {
+      "id": 1,
+      "name": "United Color beniton",
+      "price": 499.99,
+      "currency": "EUR",
+      "image": "assets/shoe1.jpg",
+      "url": "/assets/shoe1.jpg",
+      "qty": 0,
+      "added": false 
+    },
+    {
+      "id": 2,
+      "name": "Adidas sports shoes",
+      "price": 249.99,
+      "currency": "EUR",
+      "image": "assets/shoe2.jpg",
+      "url": "/assets/shoe2.jpg",
+      "qty": 0,
+      "added": false 
+    },
+    {
+      "id": 3,
+      "name": "Adidas",
+      "price": 239.99,
+      "currency": "EUR",
+      "image": "assets/shoe3.jpg",
+      "url": "/assets/shoe3.jpg",
+      "qty": 0,
+      "added": false 
+    },
+    {
+      "id": 4,
+      "name": "PUMA sports ",
+      "price": 119.99,
+      "currency": "EUR",
+      "image": "assets/shoe4.jpg",
+      "url": "/assets/shoe4.jpg",
+      "qty": 0,
+      "added": false 
+    },
+    {
+      "id": 5,
+      "name": "puma track",
+      "price": 599.99,
+      "currency": "EUR",
+      "image": "/assets/shoe7.jpg",
+      "url": "/assets/shoe7.jpg",
+      "qty": 0,
+      "added": false 
+    },
+    {
+      "id": 6,
+      "name": "Adidas track",
+      "price": 149.99,
+      "currency": "EUR",
+      "image": "assets/shoe8.jpg",
+      "url": "/assets/shoe8.jpg",
+      "qty": 0,
+      "added": false 
+    },
+     {
+      "id": 7,
+      "name": "United Color beniton",
+      "price": 499.99,
+      "currency": "EUR",
+      "image": "assets/shoe9.jpg",
+      "url": "/assets/shoe9.jpg",
+      "qty": 0,
+      "added": false 
+    }
+  ]
+}
+  

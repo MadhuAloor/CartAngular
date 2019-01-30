@@ -1,0 +1,17 @@
+p {
+    font-family: Lato;
+  }
+.row {
+  width: 100%;
+  display: inline-flex;
+}
+.products {
+  width : 66.67%;
+}
+
+.shopping-cart {
+  width: 33.33%;
+  h3 {
+    margin-left: 15px;
+  }
+}
